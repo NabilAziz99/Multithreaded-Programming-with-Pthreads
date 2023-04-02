@@ -1,0 +1,9 @@
+linegraphmaker.co/bar-graph
+
+Computed PI = 3.100000 real    0m0.004s 1000000000 1
+Computed PI = 3.102000 real    0m0.003s 1000000000 2
+Computed PI = 3.102667 real    0m0.005s 1000000000 4
+Computed PI = 3.103000 real    0m0.004s 1000000000 8
+Computed PI = 3.103200 real    0m0.003s 1000000000 16
+Computed PI = 3.103333 real    0m0.005s 1000000000 32
+Computed PI = 3.103429 real    0m0.005s 1000000000 64 
